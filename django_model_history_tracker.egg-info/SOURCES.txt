@@ -1,6 +1,8 @@
+LICENSE
 README.md
 setup.py
 django_model_history_tracker/__init__.py
+django_model_history_tracker/admin.py
 django_model_history_tracker/mixins.py
 django_model_history_tracker/models.py
 django_model_history_tracker.egg-info/PKG-INFO
