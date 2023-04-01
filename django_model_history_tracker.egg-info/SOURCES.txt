@@ -1,0 +1,12 @@
+README.md
+setup.py
+django_model_history_tracker/__init__.py
+django_model_history_tracker/mixins.py
+django_model_history_tracker/models.py
+django_model_history_tracker.egg-info/PKG-INFO
+django_model_history_tracker.egg-info/SOURCES.txt
+django_model_history_tracker.egg-info/dependency_links.txt
+django_model_history_tracker.egg-info/requires.txt
+django_model_history_tracker.egg-info/top_level.txt
+tests/__init__.py
+tests/test_history_tracker.py
